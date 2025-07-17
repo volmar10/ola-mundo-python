@@ -8,3 +8,5 @@ x = 3
 print(x)
 y = 5
 print(y)
+
+soma = x + y
