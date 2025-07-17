@@ -10,3 +10,5 @@ y = 5
 print(y)
 
 soma = x + y
+
+print('Teste')
