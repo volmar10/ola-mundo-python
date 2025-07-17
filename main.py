@@ -6,3 +6,5 @@ print(f"Olá, {nome}! Bem-vindo ao mundo da programação!")
 print('teste de sincronização')
 x = 3
 print(x)
+y = 5
+print(y)
