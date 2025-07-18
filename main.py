@@ -12,3 +12,4 @@ print(y)
 soma = x + y
 
 print('Teste')
+print('teste 2')
